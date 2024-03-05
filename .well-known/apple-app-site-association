@@ -8,4 +8,7 @@
       }
     ]
   }
+  "webcredentials": {
+      "apps": [ "4R6YFAK9DY.fc.hyundai" ]
+   },
 }
